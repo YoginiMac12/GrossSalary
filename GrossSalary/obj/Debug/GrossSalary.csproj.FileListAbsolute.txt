@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\bin\Debug\GrossSalary.exe.config
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\bin\Debug\GrossSalary.exe
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\bin\Debug\GrossSalary.pdb
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\obj\Debug\GrossSalary.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\obj\Debug\GrossSalary.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\obj\Debug\GrossSalary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\obj\Debug\GrossSalary.exe
+C:\Users\HP\source\repos\Yogini1\GrossSalary\GrossSalary\obj\Debug\GrossSalary.pdb
